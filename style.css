@@ -2,5 +2,7 @@ h1 {
     text-align: center;
 }
 
-
- 
+imgs {
+    width: 50px;
+    height: 100px;
+}
